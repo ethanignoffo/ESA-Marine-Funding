@@ -12,7 +12,7 @@ The key components of this repository include:
 - **/code**: Contains the R code used for the thesis analysis.
   - **MarineAnalysis.R**: R script for data cleaning, analysis, and modeling.
   
-- **/data**: Contains the master dataset used in the analysis.
+- **/dataset**: Contains the master dataset used in the analysis.
   - **Marine.xlsx**: Dataset with funding allocations, population trends, and other relevant variables for ESA-listed marine species.
   
 - **/manuscript**: Contains the final written thesis.
